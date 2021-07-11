@@ -38,7 +38,7 @@
 readonly prog_name="kalitorify"
 readonly version="1.26.1"
 readonly signature="Copyright (C) 2021 Brainfuck"
-readonly git_url="https://github.com/brainfucksec/kalitorify"
+readonly git_url="https://github.com/PR-Peri/Penetration_Kalitorify.git"
 
 # set colors for stdout
 export red="$(tput setaf 1)"
