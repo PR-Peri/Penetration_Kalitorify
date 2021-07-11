@@ -63,7 +63,7 @@ sudo apt-get install -y tor curl
 
 ### Install kalitorify:
 ```bash
-cd kalitorify/
+cd Penetration_Kalitorify/
 
 sudo make install
 ```
