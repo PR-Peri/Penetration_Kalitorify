@@ -49,7 +49,7 @@ For more information about the Transparent Proxy through Tor please read the [To
 
 Download with `git`:
 ```bash
-git clone https://github.com/brainfucksec/kalitorify
+git clone PR-Peri/Penetration_Kalitorify
 ```
 
 Download [release](https://github.com/brainfucksec/kalitorify/releases) (package of the latest git version)
